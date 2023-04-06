@@ -1,7 +1,7 @@
 # Android-SerialPort-Tool
 Android串口调试助手
 
-##### 使用新gradle
+## 使用新gradle
 
 distributionUrl=https\://services.gradle.org/distributions/gradle-7.5-bin.zip
 
