@@ -1,6 +1,14 @@
 # Android-SerialPort-Tool
 Android串口调试助手
 
+##### 使用新gradle
+
+distributionUrl=https\://services.gradle.org/distributions/gradle-7.5-bin.zip
+
+classpath 'com.android.tools.build:gradle:7.4.2'
+
+编译成功，打开成功
+
 根据[**Android官方提供的串口API**](https://github.com/licheedev/Android-SerialPort-API)写的一个小工具，
 没啥功能，基本也就用来调调控制板哪串口能用,发送一下简单的命令，
 如果没懒癌发作的话，以后可能会加点最近命令保存啥的功能。
